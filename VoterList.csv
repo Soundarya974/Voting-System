@@ -1,0 +1,11 @@
+voterID,password,aadharNo,firstName,middleName,lastName,dateOfBirth,emailID,mobileNo,gender
+ABC1234567,voterABC,123456789012,Amey,Bapu,Chougule,2000-02-24,ameychougule2402@gmail.com,9563127485,Male
+DEF1234567,voterDEF,234567890123,Dolly,Eric,Fernandes,1999-07-14,dollyfer99@gmail.com,9845451212,Female
+YST9991602,voterYST,890378906745,Yogiraj,Suryakant,Tambake,1999-02-16,yogirajst@gmail.com,7892089056,Male
+GHI1234567,voterGHI,345678901234,Gajanan,Hiralal,Ingale,1995-02-14,gajaningale@outlook.com,8454512912,Male
+JKL1234567,voterJKL,456789012345,Jayesh,Kiran,Londhe,2003-08-05,jaylondhe03@gmail.com,7454556912,Male
+MNO1234567,voterMNO,678901234567,Mamta,Niraj,Ojha,2002-04-13,omamta1302@outlook.com,9312748576,Female
+PQR1234567,voterPQR,234567890123,Phatima,Qadir,Rafiq,1978-10-06,,8512389562,Female
+SSK2004709,ItsMe,456237235734,Soundarya,Santosh,Kumbharikar,2004-07-09,soundaryak974@gmail.com,9487806244,Female
+RVT1234904,voterRVT,567830988922,Rohini,Vikram,Tembhurni,1998-09-08,rohitem@outlook.com,7710499886,Female
+RRR8888888,RamRam,888888888888,Ramchandra,Ravichandra,Ranghuvanshi,1992-01-02,rrr@fancy.com,8888888888,Male

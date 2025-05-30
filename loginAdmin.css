@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    background-image: url("AdminVoting (2).png");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    /*background-origin: content-box;*/
+    /*background-position-y:80%;*/
+    background-position: 80% -10%;
+    left : 20%;
+
+}
+
+.login-box {
+
+    width: 280px;
+    position: absolute ;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color: #2e339e;
+    padding: 3%;
+    border: 4px solid#2e339e;
+    border-radius: 16px;
+}
+
+.login-box h1 {
+    float: left;
+    font-size: 40px;
+    border-bottom: 4px solid #2e339e;
+    margin-bottom: 50px;
+    padding: 13px;
+}
+
+.textbox {
+    width: 100%;
+    overflow: hidden;
+    font-size: 25px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 2px solid #2e339e;
+}
+
+.fa {
+    width: 3px;
+    float: left;
+    text-align: center;
+    padding : 2px;
+}
+
+.textbox input {
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 18px;
+    float: left;
+    margin: 0 10px;
+}
+
+.button {
+    width: 100%;
+    padding: 8px;
+    color: #ffffff;
+    background: none #2e339e;
+    border: none;
+    border-radius: 6px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+}
+

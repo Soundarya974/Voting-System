@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    color: #2e339e;
+}
+body{
+    justify-content: center;
+    height: 100vh;
+    background: whitesmoke;
+    align-items:center;
+}
+
+.button{
+    text-decoration: none;
+    font-weight: 500;
+    color: #2e339e;
+}
+
+.welcomeText h1{
+    margin-left: 20%;
+    padding: 5%;
+    font-size: 300%;
+}
+
+.adminOptions{
+    display: flex;
+}
+
+.container{
+    display: flex;
+}
+.card{
+    height: 400px;
+    margin: 18px;
+    box-shadow: 3px 3px 10px #240b59;
+    overflow: hidden;
+}
+
+img{
+    height: 300px;
+    width: 350px;
+    border-radius: 3px;
+}
+.h1{
+ align-items: center;
+    color: #2e339e;
+    font-family: sans-serif;
+}
+
+.intro{
+    height: 100px;
+    width: 350px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    /*background: rgb(27,27,27,.5);*/
+    color: #240b59;
+}
+
+.h2{
+    padding-left: 2%;
+    margin: 2%;
+    font-size: 40px;
+    align-self: center;
+}
+
+p{
+    font-size: 20px;
+    margin: 20px;
+}
+

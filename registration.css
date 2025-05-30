@@ -1,0 +1,99 @@
+
+body {
+    background-image: url("registrationVoting.jpg");
+    background-size: 140%;
+    font-family:"Yu Gothic UI Light";
+    background-color:#2e339e;
+    font-size: 17px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-bottom: #0e0e0e;
+}
+
+.main {
+    width: 120vh;
+    margin: 0;
+    padding: 0;
+
+}
+input[type="date"]{
+    background-color:#2e339e;
+
+    /*padding: 15px;*/
+    padding: 2.5%;
+    /*position: absolute;*/
+    /*transform: translate(-50%,-50%);*/
+    /*top: 30%;*/
+    /*left: 50%;*/
+    font-family: "Times New Roman";
+    color: #ffffff;
+    /*font-size: 18px;*/
+    /*border: none;*/
+    margin: 2%;
+    outline: none;
+    border-radius: 5px;
+}
+.flex-container{
+    display:flex;
+    text-align: center;
+    flex-grow: 1;
+    gap: 3%;
+    margin: 1.5%;
+    width: 100%;
+}
+
+.date-of-birth{
+    width: 30%;
+}
+
+.email{
+    width: 70%;
+}
+.vertical-container{
+    display:flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 1%;
+    flex-grow: 1;
+}
+.main h1{
+    font-family: "Sitka Text";
+    color: #2e339e;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+label {
+    display: block;
+    margin-bottom: 4px;
+    color: #2c3034;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+select {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+
+}
+
+button[type="submit"] {
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #2e339e;
+    color: white;
+    cursor: pointer;
+    width: 100%;
+    font-size: 20px;
+}

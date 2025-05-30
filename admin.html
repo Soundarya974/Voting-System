@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="loginAdmin.css">
+    <title>Admin Login Page</title>
+</head>
+<body>
+<form action="admin.php" method="post">
+    <div class="login-box">
+        <h1>Admin Login</h1>
+
+        <div class="textbox">
+            <i class="fa fa-user"></i> <!--  i = icon, fa-user = user icon-->
+            <input type="text" placeholder="Username"
+                   name="username" value="">
+        </div>
+
+        <div class="textbox">
+            <i class="fa fa-lock"></i> <!--  i = icon, fa-lock = lock icon-->
+            <input type="password" placeholder="Password"
+                   name="password" value="">
+        </div>
+
+        <input class="button" type="submit" name="login" value="Log In">
+<!--        <li><a href="adminDashboard.html"  ></li>-->
+    </div>
+</form>
+</body>
+
+</html>
